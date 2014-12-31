@@ -1,0 +1,13 @@
+body {
+	background-color: white;
+}
+
+#gameContainer {
+	position: absolute;
+	top : 0;
+	left : 0;
+}
+
+#canvasContainer {
+	/*border: 1px solid #000000;*/
+}
